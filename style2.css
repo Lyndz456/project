@@ -8,16 +8,23 @@ h2{
 }
 .overlaytext{
     border: 5px;
-    
+    width: 30%;
+    height: 30%;
+    margin-bottom: 10%;
 }
 #heading{
     border: 5px;
 
 }
+.overlaytext{
+    border: 1px solid white;
+    
+}
 main{
 margin:0px;
-background-size: cover ;
+/*background-size: cover ;*/
 background-position: center;
+background-color: black;
 }
 body{
     margin:0px;
@@ -77,5 +84,8 @@ footer{
     display: block;
     clear:both;
     text-align: center;
-    padding: 25px;
+    padding: 0px;
+    background-color: black;
+margin:0px;
+
 }

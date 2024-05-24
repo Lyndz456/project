@@ -1,10 +1,77 @@
-.h1{
-    background-color: black;
-    color: white;
-    text-align: center;
-    text-decor;
-}
-.body{
-    background-image: url(images.html/pexels-leo-willians-789496294-22033648.jpg);
+h1{
     
+    text-align: center;
+    padding: 3px;
+    margin: 0%;
+}
+
+h2{
+    background-color: black ;
+    margin:0px;
+}
+
+
+body{
+    margin: 0px;
+}
+.heading{
+    padding: 20px;
+}
+
+body{
+    background:linear-gradient(white , rgb(52, 51, 51));
+    background-attachment: fixed;
+
+}
+
+h4{
+    background-color:white;  
+    margin: 0%;size: 25px;
+    
+    
+}
+a:link{
+    color: black;
+}
+a:hover{
+    color: grey;
+}
+a:visited{
+    color: black;
+}
+nav{
+    font-size: small;
+
+}
+    ul{
+        text-align: left;
+
+    }
+.links1{
+    text-align: left;
+    
+    margin: 0px;
+    
+    
+}
+.links2{
+    text-align: right;
+    
+    margin: 0px;
+   
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+   
+
+}
+nav li{
+    display: inline-block;
+    margin-right: 1rem;
+
+}
+footer{
+    text-align: center;
+    color: rgb(220, 217, 217);
 }

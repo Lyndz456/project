@@ -35,7 +35,9 @@ h2{
     margin:2px;
     padding: 7px;
 }
-
+p{
+    color: white;
+}
 
 main{
     margin:0px;
@@ -47,6 +49,7 @@ body{
     margin:0px;
     padding: 0px;
     background-color: black;
+    color: white;
 }
 header{
     background-color: black;
@@ -101,3 +104,9 @@ margin:0px;
     margin: 4px;
 }
 
+
+section{
+    border: 1px solid black ;
+    margin : 7px;
+    padding: 7px;
+}

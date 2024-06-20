@@ -1,0 +1,41 @@
+h2{
+    margin: 0px;
+}
+a:link{
+    color:white;
+    text-decoration: none;
+    margin :5px;
+}
+a:hover{
+    color: grey;
+}
+a:visited{
+    color: rgb(250, 246, 246);
+}
+nav{
+    font-size: small;
+
+}
+   
+
+nav ul{
+    list-style: none;
+    margin: 0px;
+
+}
+nav li{
+    display: inline-block;
+    margin-right: 1rem;
+
+}
+header{
+    background-color: black;
+    color: white;
+   margin :0px;
+}
+body{
+    margin :4px;
+}
+form{
+    margin: 5px;
+}
